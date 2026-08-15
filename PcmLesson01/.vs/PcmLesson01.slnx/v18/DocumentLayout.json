@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\laptrinhwweb\\PcmLesson01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{103D09C1-FDCF-458A-AA0F-6D350175D3E9}|PcmLesson01\\PcmLesson01.csproj|e:\\laptrinhwweb\\pcmlesson01\\pcmlesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{103D09C1-FDCF-458A-AA0F-6D350175D3E9}|PcmLesson01\\PcmLesson01.csproj|solutionrelative:pcmlesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|e:\\laptrinhwweb\\pcmlesson01\\pcmlesson01\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|solutionrelative:pcmlesson01\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|e:\\laptrinhwweb\\pcmlesson01\\pcmlesson01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|solutionrelative:pcmlesson01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|e:\\laptrinhwweb\\pcmlesson01\\pcmlesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|solutionrelative:pcmlesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|e:\\laptrinhwweb\\pcmlesson01\\pcmlesson01\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|solutionrelative:pcmlesson01\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|e:\\laptrinhwweb\\pcmlesson01\\pcmlesson01\\studentconsoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|solutionrelative:pcmlesson01\\studentconsoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|e:\\laptrinhwweb\\pcmlesson01\\pcmlesson01\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C8A99D-71C8-51FE-5FF5-FBCD6E5A6391}|PcmLesson01\\PcmLesson01.csproj|solutionrelative:pcmlesson01\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\MenuManager.cs",
+              "RelativeDocumentMoniker": "PcmLesson01\\MenuManager.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\MenuManager.cs",
+              "RelativeToolTip": "PcmLesson01\\MenuManager.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAABkBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:32:13.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentConsoleView.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\StudentConsoleView.cs",
+              "RelativeDocumentMoniker": "PcmLesson01\\StudentConsoleView.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\StudentConsoleView.cs",
+              "RelativeToolTip": "PcmLesson01\\StudentConsoleView.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:32:02.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentValidator.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\StudentValidator.cs",
+              "RelativeDocumentMoniker": "PcmLesson01\\StudentValidator.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\StudentValidator.cs",
+              "RelativeToolTip": "PcmLesson01\\StudentValidator.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:31:48.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\Program.cs",
               "RelativeDocumentMoniker": "PcmLesson01\\Program.cs",
               "ToolTip": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\Program.cs",
               "RelativeToolTip": "PcmLesson01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAmwEgBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-15T10:08:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\StudentService.cs",
+              "RelativeDocumentMoniker": "PcmLesson01\\StudentService.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\StudentService.cs",
+              "RelativeToolTip": "PcmLesson01\\StudentService.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAIwAABAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:31:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\Student.cs",
+              "RelativeDocumentMoniker": "PcmLesson01\\Student.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson01\\PcmLesson01\\Student.cs",
+              "RelativeToolTip": "PcmLesson01\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T10:24:00.472Z",
               "EditorCaption": ""
             }
           ]

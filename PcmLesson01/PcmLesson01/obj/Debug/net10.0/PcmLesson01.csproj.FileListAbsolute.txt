@@ -1,0 +1,15 @@
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\bin\Debug\net10.0\PcmLesson01.exe
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\bin\Debug\net10.0\PcmLesson01.deps.json
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\bin\Debug\net10.0\PcmLesson01.runtimeconfig.json
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\bin\Debug\net10.0\PcmLesson01.dll
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\bin\Debug\net10.0\PcmLesson01.pdb
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.GeneratedMSBuildEditorConfig.editorconfig
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.AssemblyInfoInputs.cache
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.AssemblyInfo.cs
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.csproj.CoreCompileInputs.cache
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.sourcelink.json
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.dll
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\refint\PcmLesson01.dll
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.pdb
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\PcmLesson01.genruntimeconfig.cache
+E:\laptrinhwweb\PcmLesson01\PcmLesson01\obj\Debug\net10.0\ref\PcmLesson01.dll
