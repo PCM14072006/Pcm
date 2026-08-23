@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PcmLesson02/PcmLesson02.csproj" />
+  <Project Path="PcmLesson02MVC/PcmLesson02MVC.csproj" />
+</Solution>
