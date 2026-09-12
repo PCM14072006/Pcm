@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\laptrinhwweb\\PcmLesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\bookcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\bookcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\bookcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\bookcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\views\\bookcontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\views\\bookcontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|e:\\laptrinhwweb\\pcmlesson04\\pcmlesson04\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E369BE1-86C7-4F79-B1EE-CFFCE924B1EA}|PcmLesson04\\PcmLesson04.csproj|solutionrelative:pcmlesson04\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "my_layout.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\my_layout.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\Shared\\my_layout.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\my_layout.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\Shared\\my_layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T09:03:49.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookViewComponent.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\ViewComponents\\BookViewComponent.cs",
+              "RelativeDocumentMoniker": "PcmLesson04\\ViewComponents\\BookViewComponent.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\ViewComponents\\BookViewComponent.cs",
+              "RelativeToolTip": "PcmLesson04\\ViewComponents\\BookViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:48:34.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T08:41:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T08:41:34.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T08:41:01.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T07:47:15.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T08:53:10.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\Index.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Index.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T08:37:20.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Banner.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\Banner.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\Shared\\Banner.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\Shared\\Banner.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\Shared\\Banner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T07:46:05.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\BookController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\BookController1\\Create.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\BookController1\\Create.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\BookController1\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T07:31:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\BookController1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\BookController1\\Edit.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\BookController1\\Edit.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\BookController1\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T07:36:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\BookController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson04\\Views\\BookController1\\Index.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Views\\BookController1\\Index.cshtml",
+              "RelativeToolTip": "PcmLesson04\\Views\\BookController1\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T07:02:48.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookController1.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Controllers\\BookController1.cs",
+              "RelativeDocumentMoniker": "PcmLesson04\\Controllers\\BookController1.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Controllers\\BookController1.cs",
+              "RelativeToolTip": "PcmLesson04\\Controllers\\BookController1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T06:47:02.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "PcmLesson04\\Models\\Book.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\Models\\Book.cs",
+              "RelativeToolTip": "PcmLesson04\\Models\\Book.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wFsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T06:25:01.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

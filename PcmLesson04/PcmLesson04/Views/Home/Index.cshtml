@@ -1,0 +1,17 @@
+﻿@{
+    Layout = "my_layout";
+    ViewData["Title"] = "Home Page";
+}
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<h2>Popular Book Load từ BookComponent</h2>
+
+@await Component.InvokeAsync("Book")
