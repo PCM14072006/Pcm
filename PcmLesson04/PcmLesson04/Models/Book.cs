@@ -84,8 +84,8 @@ namespace PcmLesson04.Models
 
             return book;
         }
-// SelectListItem Authors (using Microsoft.AspNetCore.Mvc.Rendering)
-public List<SelectListItem> Authors { get; } = new List<SelectListItem>
+        // SelectListItem Authors (using Microsoft.AspNetCore.Mvc.Rendering)
+        public List<SelectListItem> Authors { get; } = new List<SelectListItem>
 {
     new SelectListItem {Value="1", Text="Nam cao"},
     new SelectListItem {Value="2", Text="Ngô Tất Tố"},

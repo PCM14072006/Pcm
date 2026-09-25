@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PcmLesson04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9c8b0ea6343dbc78ffba25583010859e0774244")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6cd9f5e3068a68400953dc7d36beefe48d98c65")]
 [assembly: System.Reflection.AssemblyProductAttribute("PcmLesson04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PcmLesson04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\PcmLesson04.csproj",
-      "projectName": "PcmLesson04",
-      "projectPath": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\PcmLesson04.csproj",
+      "projectUniqueName": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\PcmLesson05.csproj",
+      "projectName": "PcmLesson05",
+      "projectPath": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\PcmLesson05.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\laptrinhwweb\\PcmLesson04\\PcmLesson04\\obj\\",
       "projectStyle": "PackageReference",
@@ -77,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
