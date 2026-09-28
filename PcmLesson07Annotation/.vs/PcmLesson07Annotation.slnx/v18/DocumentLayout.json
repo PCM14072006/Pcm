@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\laptrinhwweb\\PcmLesson07Annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|e:\\laptrinhwweb\\pcmlesson07annotation\\pcmlesson07annotation\\models\\pcmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|solutionrelative:pcmlesson07annotation\\models\\pcmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|e:\\laptrinhwweb\\pcmlesson07annotation\\pcmlesson07annotation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|solutionrelative:pcmlesson07annotation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|e:\\laptrinhwweb\\pcmlesson07annotation\\pcmlesson07annotation\\controllers\\pcmmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|solutionrelative:pcmlesson07annotation\\controllers\\pcmmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|e:\\laptrinhwweb\\pcmlesson07annotation\\pcmlesson07annotation\\views\\pcmmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|solutionrelative:pcmlesson07annotation\\views\\pcmmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|e:\\laptrinhwweb\\pcmlesson07annotation\\pcmlesson07annotation\\views\\pcmmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A346180-7E94-4835-A036-2F789E66D9BB}|PcmLesson07Annotation\\PcmLesson07Annotation.csproj|solutionrelative:pcmlesson07annotation\\views\\pcmmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PcmLesson07Annotation\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PcmLesson07Annotation\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:50:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Views\\PcmMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson07Annotation\\Views\\PcmMember\\Create.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Views\\PcmMember\\Create.cshtml",
+              "RelativeToolTip": "PcmLesson07Annotation\\Views\\PcmMember\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T06:35:36.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Views\\PcmMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "PcmLesson07Annotation\\Views\\PcmMember\\Index.cshtml",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Views\\PcmMember\\Index.cshtml",
+              "RelativeToolTip": "PcmLesson07Annotation\\Views\\PcmMember\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T06:34:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PcmMemberController.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Controllers\\PcmMemberController.cs",
+              "RelativeDocumentMoniker": "PcmLesson07Annotation\\Controllers\\PcmMemberController.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Controllers\\PcmMemberController.cs",
+              "RelativeToolTip": "PcmLesson07Annotation\\Controllers\\PcmMemberController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAnwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:26:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PcmMember.cs",
+              "DocumentMoniker": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Models\\PcmMember.cs",
+              "RelativeDocumentMoniker": "PcmLesson07Annotation\\Models\\PcmMember.cs",
+              "ToolTip": "E:\\laptrinhwweb\\PcmLesson07Annotation\\PcmLesson07Annotation\\Models\\PcmMember.cs",
+              "RelativeToolTip": "PcmLesson07Annotation\\Models\\PcmMember.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:59:00.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

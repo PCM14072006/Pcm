@@ -1,0 +1,52 @@
+@model PcmLesson07Annotation.Models.PcmMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PcmMember</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="PcmUsername" class="control-label"></label>
+                <input asp-for="PcmUsername" class="form-control" />
+                <span asp-validation-for="PcmUsername" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Pcmpassword" class="control-label"></label>
+                <input asp-for="Pcmpassword" class="form-control" />
+                <span asp-validation-for="Pcmpassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PcmEmail" class="control-label"></label>
+                <input asp-for="PcmEmail" class="form-control" />
+                <span asp-validation-for="PcmEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PcmPhone" class="control-label"></label>
+                <input asp-for="PcmPhone" class="form-control" />
+                <span asp-validation-for="PcmPhone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
