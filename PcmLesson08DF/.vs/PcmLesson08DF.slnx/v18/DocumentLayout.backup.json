@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Nam3_Ky1\\laptrinhwweb\\PcmLesson08DF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Nam3_Ky1\\laptrinhwweb\\PcmLesson08DF\\PcmLesson08DF\\Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcmLesson08DF\\Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4AB17CE-877D-0D5C-8EF2-89D15F08A243}|PcmLesson08DF\\PcmLesson08DF.csproj|e:\\nam3_ky1\\laptrinhwweb\\pcmlesson08df\\pcmlesson08df\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AB17CE-877D-0D5C-8EF2-89D15F08A243}|PcmLesson08DF\\PcmLesson08DF.csproj|solutionrelative:pcmlesson08df\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Nam3_Ky1\\laptrinhwweb\\PcmLesson08DF\\PcmLesson08DF\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PcmLesson08DF\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4AB17CE-877D-0D5C-8EF2-89D15F08A243}|PcmLesson08DF\\PcmLesson08DF.csproj|e:\\nam3_ky1\\laptrinhwweb\\pcmlesson08df\\pcmlesson08df\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AB17CE-877D-0D5C-8EF2-89D15F08A243}|PcmLesson08DF\\PcmLesson08DF.csproj|solutionrelative:pcmlesson08df\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AB17CE-877D-0D5C-8EF2-89D15F08A243}|PcmLesson08DF\\PcmLesson08DF.csproj|e:\\nam3_ky1\\laptrinhwweb\\pcmlesson08df\\pcmlesson08df\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AB17CE-877D-0D5C-8EF2-89D15F08A243}|PcmLesson08DF\\PcmLesson08DF.csproj|solutionrelative:pcmlesson08df\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "E:\\Nam3_Ky1\\laptrinhwweb\\PcmLesson08DF\\PcmLesson08DF\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "PcmLesson08DF\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "E:\\Nam3_Ky1\\laptrinhwweb\\PcmLesson08DF\\PcmLesson08DF\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "PcmLesson08DF\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:28:04.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "E:\\Nam3_Ky1\\laptrinhwweb\\PcmLesson08DF\\PcmLesson08DF\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "PcmLesson08DF\\Controllers\\AccountsController.cs",

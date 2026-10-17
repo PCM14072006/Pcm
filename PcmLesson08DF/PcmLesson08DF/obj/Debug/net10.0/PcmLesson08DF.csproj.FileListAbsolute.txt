@@ -230,3 +230,4 @@ E:\Nam3_Ky1\laptrinhwweb\PcmLesson08DF\PcmLesson08DF\obj\Debug\net10.0\refint\Pc
 E:\Nam3_Ky1\laptrinhwweb\PcmLesson08DF\PcmLesson08DF\obj\Debug\net10.0\PcmLesson08DF.pdb
 E:\Nam3_Ky1\laptrinhwweb\PcmLesson08DF\PcmLesson08DF\obj\Debug\net10.0\PcmLesson08DF.genruntimeconfig.cache
 E:\Nam3_Ky1\laptrinhwweb\PcmLesson08DF\PcmLesson08DF\obj\Debug\net10.0\ref\PcmLesson08DF.dll
+E:\Nam3_Ky1\laptrinhwweb\PcmLesson08DF\PcmLesson08DF\obj\Debug\net10.0\PcmLesson08DF.sourcelink.json
