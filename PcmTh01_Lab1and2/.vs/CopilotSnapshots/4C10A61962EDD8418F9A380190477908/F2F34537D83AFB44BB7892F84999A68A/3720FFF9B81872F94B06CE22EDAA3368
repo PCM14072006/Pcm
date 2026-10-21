@@ -1,0 +1,59 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace PcmTh01.Controllers
+{
+    public class StudentController : Controller
+    {
+        private List<Student> listStudents = new List<Student>();
+        public StudentController() { 
+        //tạo danh sách sinh viên mẫu
+            listStudents = new List<Student>
+            {
+                new Student() { Id = 1, Name = "Nguyen Van Dong", Email = "nguyenvandong@example.com" , PassWord = "123456", Branch = Branch.IT, Gender = Gender.Male, IsRegular = true, Address = "123 Main St", DateOfBorth = new DateTime(2000, 1, 1) }
+            },
+            new Student()
+            {
+                Id = 2,
+                Name = "Tran Thi Lan",
+                Email = "tranthilan@example.com",
+                PassWord = "123456",
+                Branch = Branch.IT,
+                Gender = Gender.Female,
+                IsRegular = true,
+                Address = "456 Oak Ave",
+                DateOfBorth = new DateTime(2000, 5, 15)
+            },
+            new Student()
+            {
+                Id = 3,
+                Name = "Le Van An",
+                Email = "levanan@example.com",
+                PassWord = "123456",
+                Branch = Branch.IT,
+                Gender = Gender.Male,
+                IsRegular = true,
+                Address = "789 Pine Rd",
+                DateOfBorth = new DateTime(2000, 10, 10)
+            },
+            new Student()
+            {
+                Id = 4,
+                Name = "Pham Thi Mai",
+                Email = "phamthimai@example.com",
+                PassWord = "123456",
+                Branch = Branch.IT,
+                Gender = Gender.Female,
+                IsRegular = true,
+                Address = "101 Maple Dr",
+                DateOfBorth = new DateTime(2000, 8, 20)
+            };
+        };
+
+        public IActionResult Index()
+        {
+            return View(listStudents);
+        }
+    }
+}
+

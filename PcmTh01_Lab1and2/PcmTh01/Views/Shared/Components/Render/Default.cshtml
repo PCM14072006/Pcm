@@ -1,0 +1,10 @@
+﻿@model IEnumerable<PcmTh01.Models.MenuItem>
+
+<ul class="list-unstyled">
+    @foreach (var item in Model)
+    {
+        <li>
+            <a class="nav-link" href="@item.Link">@item.Name</a>
+        </li>
+    }
+</ul>
