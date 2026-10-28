@@ -1,7 +1,20 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews(options =>
+{
+    var mp = options.ModelBindingMessageProvider;
+    mp.SetValueMustNotBeNullAccessor(_ => "Trường này bắt buộc phải được nhập");
+    mp.SetMissingBindRequiredValueAccessor(f => $"Thiếu giá trị cho {f}");
+    mp.SetMissingKeyOrValueAccessor(() => "Bắt buộc phải nhập giá trị");
+    mp.SetAttemptedValueIsInvalidAccessor((v, f) => $"Giá trị '{v}' không hợp lệ cho {f}");
+    mp.SetUnknownValueIsInvalidAccessor(f => $"Giá trị không hợp lệ cho {f}");
+    mp.SetNonPropertyAttemptedValueIsInvalidAccessor(v => $"Giá trị '{v}' không hợp lệ");
+    mp.SetNonPropertyUnknownValueIsInvalidAccessor(() => "Giá trị không hợp lệ");
+    mp.SetValueIsInvalidAccessor(v => $"Giá trị '{v}' không hợp lệ");
+    mp.SetValueMustBeANumberAccessor(f => $"{f} phải là số thực");
+    mp.SetNonPropertyValueMustBeANumberAccessor(() => "Giá trị phải là số thực");
+});
 
 var app = builder.Build();
 

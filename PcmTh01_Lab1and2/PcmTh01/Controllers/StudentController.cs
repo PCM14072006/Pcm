@@ -1,5 +1,4 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using PcmTh01.Models;
 
@@ -14,7 +13,7 @@ namespace PcmTh01.Controllers
                 Id = 1,
                 Name = "Nguyen Van Dong",
                 Email = "nguyenvandong@example.com",
-                PassWord = "123456",
+                Password = "123456",
                 Branch = Branch.IT,
                 Gender = Gender.Male,
                 IsRegular = true,
@@ -26,7 +25,7 @@ namespace PcmTh01.Controllers
                 Id = 2,
                 Name = "Tran Thi Lan",
                 Email = "tranthilan@example.com",
-                PassWord = "123456",
+                Password = "123456",
                 Branch = Branch.IT,
                 Gender = Gender.Female,
                 IsRegular = true,
@@ -38,7 +37,7 @@ namespace PcmTh01.Controllers
                 Id = 3,
                 Name = "Le Van An",
                 Email = "levanan@example.com",
-                PassWord = "123456",
+                Password = "123456",
                 Branch = Branch.IT,
                 Gender = Gender.Male,
                 IsRegular = true,
@@ -50,7 +49,7 @@ namespace PcmTh01.Controllers
                 Id = 4,
                 Name = "Pham Thi Mai",
                 Email = "phamthimai@example.com",
-                PassWord = "123456",
+                Password = "123456",
                 Branch = Branch.IT,
                 Gender = Gender.Female,
                 IsRegular = true,
@@ -77,20 +76,31 @@ namespace PcmTh01.Controllers
             if (imageFile != null && imageFile.Length > 0)
             {
                 string[] allowedExtensions = { ".jpg", ".jpeg", ".png" };
-                string extension = Path.GetExtension(imageFile.FileName).ToLowerInvariant();
+
+                string extension = Path.GetExtension(imageFile.FileName)
+                    .ToLowerInvariant();
 
                 if (!allowedExtensions.Contains(extension))
                 {
-                    ModelState.AddModelError("Image", "Chỉ chấp nhận ảnh JPG, JPEG hoặc PNG.");
+                    ModelState.AddModelError(
+                        "Image",
+                        "Chỉ chấp nhận ảnh JPG, JPEG hoặc PNG."
+                    );
                 }
                 else if (imageFile.Length > 2 * 1024 * 1024)
                 {
-                    ModelState.AddModelError("Image", "Ảnh không được vượt quá 2 MB.");
+                    ModelState.AddModelError(
+                        "Image",
+                        "Ảnh không được vượt quá 2 MB."
+                    );
                 }
                 else
                 {
                     string folder = Path.Combine(
-                        Directory.GetCurrentDirectory(), "wwwroot", "images");
+                        Directory.GetCurrentDirectory(),
+                        "wwwroot",
+                        "images"
+                    );
 
                     Directory.CreateDirectory(folder);
 

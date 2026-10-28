@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nam3_Ky1\\laptrinhwweb\\PcmTh01\\PcmTh01\\PcmTh01.csproj",
+      "projectUniqueName": "E:\\Nam3_Ky1\\laptrinhwweb\\BaiTapClassRoom\\PcmTh01_Lab1and2\\PcmTh01\\PcmTh01.csproj",
       "projectName": "PcmTh01",
-      "projectPath": "E:\\Nam3_Ky1\\laptrinhwweb\\PcmTh01\\PcmTh01\\PcmTh01.csproj",
+      "projectPath": "E:\\Nam3_Ky1\\laptrinhwweb\\BaiTapClassRoom\\PcmTh01_Lab1and2\\PcmTh01\\PcmTh01.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Nam3_Ky1\\laptrinhwweb\\PcmTh01\\PcmTh01\\obj\\",
+      "outputPath": "E:\\Nam3_Ky1\\laptrinhwweb\\BaiTapClassRoom\\PcmTh01_Lab1and2\\PcmTh01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
